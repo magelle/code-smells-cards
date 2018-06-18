@@ -7,7 +7,7 @@ Une classe qui contient beaucoup de :
 - méthodes
 - lignes de code
 
-## Pourquoi est-ce un problème
+## L'origin du problème
 
 La plupart des classes naissent petites. Mais elles grossissent au fur et à mesure des évolutions.
 
