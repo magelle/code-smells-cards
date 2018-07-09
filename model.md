@@ -15,3 +15,7 @@
 ## Résultat
 
 ...
+
+## Quand ignorer
+
+...
